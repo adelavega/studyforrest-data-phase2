@@ -1,2 +1,2 @@
 2f51364e-815a-4ad9-b380-617c682b1680 autoenable=true location=http://psydata.ovgu.de/studyforrest/phase2/.git name=mddatasrc type=git timestamp=1452859209.790328s
-5e939fd1-b032-447a-9b4d-ac976312e101 bucket=cloud-5e939fd1-b032-447a-9b4d-ac976312e101 datacenter=US encryption=none host=storage.googleapis.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1501187453.900586373s
+5e939fd1-b032-447a-9b4d-ac976312e101 bucket=cloud-5e939fd1-b032-447a-9b4d-ac976312e101 datacenter=US encryption=none host=storage.googleapis.com name=cloud port=80 storageclass=STANDARD type=S3 timestamp=1501188147.375127396s
